@@ -1,19 +1,19 @@
 import os 
 
-class HighCalculator :
+class Calculator :
     def sum(self, nums) :
       sum = 0.0
       for n in nums :
         sum += n
       return sum
     
-    def mutiply(self, nums) :
-      result = 0.0
+    def multiply(self, nums) :
+      result = 1.0
       for n in nums :
         result *= n
       return result
 
-calculate_core = HighCalculator()
+calculate_core = Calculator()
 
 input_str = input("请输入需要处理的数据，用空格分隔：")
 nums = list(map(float, input_str.split()))
@@ -24,4 +24,4 @@ while(mode not in {"add", "multply"}) :
 if mode == "add" :
   print(f"求和结果：{calculate_core.sum(nums)}")
 else :
-  print(f"求积结果：{calculate_core.mutiply(nums)}")
+  print(f"求积结果：{calculate_core.multiply(nums)}")
