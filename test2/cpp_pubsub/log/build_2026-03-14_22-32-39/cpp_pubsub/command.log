@@ -1,0 +1,6 @@
+Invoking command in '/home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cym/intership_test/test2/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/cym/intership_test/test2/cpp_pubsub/install/cpp_pubsub
+Invoked command in '/home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cym/intership_test/test2/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/cym/intership_test/test2/cpp_pubsub/install/cpp_pubsub
+Invoking command in '/home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub -- -j20 -l20
+Invoked command in '/home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub -- -j20 -l20
+Invoking command in '/home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub
+Invoked command in '/home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cym/intership_test/test2/cpp_pubsub/build/cpp_pubsub
