@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from tutorial_interfaces/srv/Sum.srv
+// generated code does not contain a copyright notice
+
+
+module tutorial_interfaces {
+  module srv {
+    struct Sum_Request {
+      double a;
+
+      double b;
+
+      double c;
+    };
+    struct Sum_Response {
+      double sum;
+    };
+  };
+};

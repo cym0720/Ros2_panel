@@ -1,0 +1,11 @@
+In file included from [01m[K/home/cym/intership_test/test2/package_srvcli/src/srv.cpp:5[m[K:
+[01m[K/home/cym/intership_test/test2/package_srvcli/src/../include/calculator.hpp:[m[K In constructor ‘[01m[KPyCalculator::PyCalculator()[m[K’:
+[01m[K/home/cym/intership_test/test2/package_srvcli/src/../include/calculator.hpp:49:25:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid PyEval_InitThreads()[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+   49 |       [01;35m[KPyEval_InitThreads()[m[K;
+      |       [01;35m[K~~~~~~~~~~~~~~~~~~^~[m[K
+In file included from [01m[K/usr/include/python3.10/Python.h:130[m[K,
+                 from [01m[K/home/cym/intership_test/test2/package_srvcli/src/../include/calculator.hpp:1[m[K,
+                 from [01m[K/home/cym/intership_test/test2/package_srvcli/src/srv.cpp:5[m[K:
+[01m[K/usr/include/python3.10/ceval.h:122:37:[m[K [01;36m[Knote: [m[Kdeclared here
+  122 | Py_DEPRECATED(3.9) PyAPI_FUNC(void) [01;36m[KPyEval_InitThreads[m[K(void);
+      |                                     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K

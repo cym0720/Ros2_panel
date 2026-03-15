@@ -1,0 +1,17 @@
+/home/cym/intership_test/test2/install/package_srvcli/lib/package_srvcli/calculator
+/home/cym/intership_test/test2/install/package_srvcli/lib/package_srvcli/client
+/home/cym/intership_test/test2/install/package_srvcli/share/ament_index/resource_index/package_run_dependencies/package_srvcli
+/home/cym/intership_test/test2/install/package_srvcli/share/ament_index/resource_index/parent_prefix_path/package_srvcli
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/environment/ament_prefix_path.sh
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/environment/ament_prefix_path.dsv
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/environment/path.sh
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/environment/path.dsv
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/local_setup.bash
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/local_setup.sh
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/local_setup.zsh
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/local_setup.dsv
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/package.dsv
+/home/cym/intership_test/test2/install/package_srvcli/share/ament_index/resource_index/packages/package_srvcli
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/cmake/package_srvcliConfig.cmake
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/cmake/package_srvcliConfig-version.cmake
+/home/cym/intership_test/test2/install/package_srvcli/share/package_srvcli/package.xml

@@ -1,0 +1,11 @@
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/uninstall.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/package_srvcli_uninstall.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/calculator.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/client.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/test.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/edit_cache.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/rebuild_cache.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/list_install_components.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/install.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/install/local.dir
+/home/cym/intership_test/test2/build/package_srvcli/CMakeFiles/install/strip.dir

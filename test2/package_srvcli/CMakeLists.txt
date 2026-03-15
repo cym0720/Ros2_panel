@@ -9,16 +9,18 @@ endif()
 find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(tutorial_interfaces REQUIRED)
-# find_package(Python3 3.10 REQUIRED COMPONENTS Interpreter Development)
+find_package(Python3 3.10 REQUIRED COMPONENTS Interpreter Development)
 
-add_executable(caculator src/srv.cpp)
-ament_target_dependencies(caculator rclcpp tutorial_interfaces)
+add_executable(calculator src/srv.cpp)
+ament_target_dependencies(calculator rclcpp tutorial_interfaces)
+target_link_libraries(calculator Python3::Python)
 
 add_executable(client src/cli.cpp)
 ament_target_dependencies(client rclcpp tutorial_interfaces)
+target_link_libraries(client Python3::Python)
 
 install(TARGETS
-  caculator
+  calculator
   client
   DESTINATION lib/${PROJECT_NAME})
 
