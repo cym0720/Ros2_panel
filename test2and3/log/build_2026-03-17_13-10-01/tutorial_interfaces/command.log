@@ -1,0 +1,2 @@
+Invoking command in '/home/cym/intership_test/test2and3/build/tutorial_interfaces': /usr/bin/cmake /home/cym/intership_test/test2and3/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/cym/intership_test/test2and3/install/tutorial_interfaces
+Invoked command in '/home/cym/intership_test/test2and3/build/tutorial_interfaces' returned '1': /usr/bin/cmake /home/cym/intership_test/test2and3/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/cym/intership_test/test2and3/install/tutorial_interfaces

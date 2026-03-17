@@ -75,6 +75,16 @@
     "cinttypes": "cpp",
     "typeindex": "cpp",
     "typeinfo": "cpp",
-    "variant": "cpp"
+    "variant": "cpp",
+    "regex": "cpp",
+    "qpushbutton": "cpp",
+    "qvboxlayout": "cpp",
+    "qapplication": "cpp",
+    "qwidget": "cpp",
+    "qlabel": "cpp",
+    "qlineedit": "cpp",
+    "qcombobox": "cpp",
+    "qlayout": "cpp",
+    "qlayoutitem": "cpp"
   }
 }

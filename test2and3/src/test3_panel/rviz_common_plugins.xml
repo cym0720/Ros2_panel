@@ -1,0 +1,10 @@
+<library path="test3_panel">
+  <class
+    name="test3_panel/DemoPanel"
+    type="DemoPanel"
+    base_class_type="rviz_common::Panel">
+    <description>
+      A simple RViz panel that calls the /sum service.
+    </description>
+  </class>
+</library>

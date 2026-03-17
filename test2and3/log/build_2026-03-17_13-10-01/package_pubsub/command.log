@@ -1,0 +1,2 @@
+Invoking command in '/home/cym/intership_test/test2and3/build/package_pubsub': /usr/bin/cmake /home/cym/intership_test/test2and3/src/package_pubsub -DCMAKE_INSTALL_PREFIX=/home/cym/intership_test/test2and3/install/package_pubsub
+Invoked command in '/home/cym/intership_test/test2and3/build/package_pubsub' returned '1': /usr/bin/cmake /home/cym/intership_test/test2and3/src/package_pubsub -DCMAKE_INSTALL_PREFIX=/home/cym/intership_test/test2and3/install/package_pubsub

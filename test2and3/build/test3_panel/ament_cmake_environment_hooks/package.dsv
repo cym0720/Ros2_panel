@@ -1,0 +1,4 @@
+source;share/test3_panel/local_setup.bash
+source;share/test3_panel/local_setup.dsv
+source;share/test3_panel/local_setup.sh
+source;share/test3_panel/local_setup.zsh

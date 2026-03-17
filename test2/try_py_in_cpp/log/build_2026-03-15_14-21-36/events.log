@@ -1,3 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000323] (-) JobUnselected: {'identifier': 'test_cpp_import_python'}
-[0.000636] (-) EventReactorShutdown: {}

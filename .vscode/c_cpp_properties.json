@@ -5,7 +5,15 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/opt/ros/humble/include/**",
-                "/home/cym/intership_test/test2/install/tutorial_interfaces/include/tutorial_interfaces/**"
+                "/home/cym/intership_test/test2/install/tutorial_interfaces/include/tutorial_interfaces/**",
+                "/opt/ros/humble/opt/rviz_ogre_vendor/include/OGRE/**",
+                "${workspaceFolder}/**/**/include/**",
+                "/opt/ros/humble/include/**/**",
+                "/usr/include/x86_64-linux-gnu/qt5/**",
+                "/usr/include/x86_64-linux-gnu/qt5/QtGui/**",
+                "/opt/ros/humble/include/tf2_ros/**",
+                "${workspaceFolder}/**/**/**/include/**",
+                "${workspaceFolder}/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",

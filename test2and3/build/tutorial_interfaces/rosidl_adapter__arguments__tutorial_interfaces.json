@@ -1,0 +1,7 @@
+{
+  "package_name": "tutorial_interfaces",
+  "non_idl_tuples": [
+    "/home/cym/intership_test/test2and3/src/tutorial_interfaces:srv/Prod.srv",
+    "/home/cym/intership_test/test2and3/src/tutorial_interfaces:srv/Sum.srv"
+  ]
+}

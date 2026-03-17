@@ -1,0 +1,17 @@
+/home/cym/intership_test/test2and3/install/package_pubsub/lib/package_pubsub/talker
+/home/cym/intership_test/test2and3/install/package_pubsub/lib/package_pubsub/listener
+/home/cym/intership_test/test2and3/install/package_pubsub/share/ament_index/resource_index/package_run_dependencies/package_pubsub
+/home/cym/intership_test/test2and3/install/package_pubsub/share/ament_index/resource_index/parent_prefix_path/package_pubsub
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/environment/ament_prefix_path.sh
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/environment/ament_prefix_path.dsv
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/environment/path.sh
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/environment/path.dsv
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/local_setup.bash
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/local_setup.sh
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/local_setup.zsh
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/local_setup.dsv
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/package.dsv
+/home/cym/intership_test/test2and3/install/package_pubsub/share/ament_index/resource_index/packages/package_pubsub
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/cmake/package_pubsubConfig.cmake
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/cmake/package_pubsubConfig-version.cmake
+/home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/package.xml

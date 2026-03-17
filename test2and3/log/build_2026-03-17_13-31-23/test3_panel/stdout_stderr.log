@@ -1,0 +1,26 @@
+[ 25%] [34m[1mAutomatic MOC for target test3_panel[0m
+[ 25%] Built target test3_panel_autogen
+[35m[1mConsolidate compiler generated dependencies of target test3_panel[0m
+[100%] Built target test3_panel
+-- Install configuration: ""
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/rviz_common_plugins.xml
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/lib/libtest3_panel.so
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/include/
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/include//test_panel.hpp
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/rviz_common_plugins.xml
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/ament_index/resource_index/package_run_dependencies/test3_panel
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/ament_index/resource_index/parent_prefix_path/test3_panel
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/environment/ament_prefix_path.sh
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/environment/path.sh
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/environment/path.dsv
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/local_setup.bash
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/local_setup.sh
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/local_setup.zsh
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/local_setup.dsv
+-- Installing: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/package.dsv
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/ament_index/resource_index/packages/test3_panel
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/ament_index/resource_index/rviz_common__pluginlib__plugin/test3_panel
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/cmake/test3_panelConfig.cmake
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/cmake/test3_panelConfig-version.cmake
+-- Up-to-date: /home/cym/intership_test/test2and3/install/test3_panel/share/test3_panel/package.xml

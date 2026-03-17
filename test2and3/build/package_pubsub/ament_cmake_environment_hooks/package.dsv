@@ -1,0 +1,4 @@
+source;share/package_pubsub/local_setup.bash
+source;share/package_pubsub/local_setup.dsv
+source;share/package_pubsub/local_setup.sh
+source;share/package_pubsub/local_setup.zsh

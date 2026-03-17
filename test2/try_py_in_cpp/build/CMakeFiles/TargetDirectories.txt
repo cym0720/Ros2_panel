@@ -1,3 +1,0 @@
-/home/cym/intership_test/test2/try_py_in_cpp/build/CMakeFiles/test.dir
-/home/cym/intership_test/test2/try_py_in_cpp/build/CMakeFiles/edit_cache.dir
-/home/cym/intership_test/test2/try_py_in_cpp/build/CMakeFiles/rebuild_cache.dir

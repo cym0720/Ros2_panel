@@ -1,0 +1,11 @@
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/uninstall.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/test3_panel_uninstall.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/test3_panel.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/test.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/edit_cache.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/rebuild_cache.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/list_install_components.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/install.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/install/local.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/install/strip.dir
+/home/cym/intership_test/test2and3/build/test3_panel/CMakeFiles/test3_panel_autogen.dir

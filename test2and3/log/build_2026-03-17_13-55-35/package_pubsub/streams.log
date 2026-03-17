@@ -1,0 +1,32 @@
+[0.012s] Invoking command in '/home/cym/intership_test/test2and3/build/package_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cym/intership_test/test2and3/build/package_pubsub -- -j20 -l20
+[0.062s] [35m[1mConsolidate compiler generated dependencies of target listener[0m
+[0.062s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[0.073s] [ 25%] [32mBuilding CXX object CMakeFiles/listener.dir/src/subscriber_member_function.cpp.o[0m
+[0.073s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[3.111s] [ 75%] [32m[1mLinking CXX executable talker[0m
+[3.433s] [ 75%] Built target talker
+[5.334s] [100%] [32m[1mLinking CXX executable listener[0m
+[5.704s] [100%] Built target listener
+[5.711s] Invoked command in '/home/cym/intership_test/test2and3/build/package_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cym/intership_test/test2and3/build/package_pubsub -- -j20 -l20
+[5.713s] Invoking command in '/home/cym/intership_test/test2and3/build/package_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cym/intership_test/test2and3/build/package_pubsub
+[5.718s] -- Install configuration: ""
+[5.718s] -- Installing: /home/cym/intership_test/test2and3/install/package_pubsub/lib/package_pubsub/talker
+[5.719s] -- Set runtime path of "/home/cym/intership_test/test2and3/install/package_pubsub/lib/package_pubsub/talker" to ""
+[5.720s] -- Installing: /home/cym/intership_test/test2and3/install/package_pubsub/lib/package_pubsub/listener
+[5.721s] -- Set runtime path of "/home/cym/intership_test/test2and3/install/package_pubsub/lib/package_pubsub/listener" to ""
+[5.721s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/ament_index/resource_index/package_run_dependencies/package_pubsub
+[5.721s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/ament_index/resource_index/parent_prefix_path/package_pubsub
+[5.721s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/environment/ament_prefix_path.sh
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/environment/ament_prefix_path.dsv
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/environment/path.sh
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/environment/path.dsv
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/local_setup.bash
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/local_setup.sh
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/local_setup.zsh
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/local_setup.dsv
+[5.722s] -- Installing: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/package.dsv
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/ament_index/resource_index/packages/package_pubsub
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/cmake/package_pubsubConfig.cmake
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/cmake/package_pubsubConfig-version.cmake
+[5.722s] -- Up-to-date: /home/cym/intership_test/test2and3/install/package_pubsub/share/package_pubsub/package.xml
+[5.723s] Invoked command in '/home/cym/intership_test/test2and3/build/package_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cym/intership_test/test2and3/build/package_pubsub
