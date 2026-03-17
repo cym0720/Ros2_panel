@@ -1,0 +1,1 @@
+test2and3中发现了ros2的dds通信有问题，使用前启动ros**env.sh脚本可解决
